@@ -1,12 +1,12 @@
 firstName: Mian # Write your first name here
 entries: # Scrapbook entries under here (2-space indent)
-  - title: succulents 
-    note: A bunch of beautiful plants at a small shop in Cagayan de Oro, 🇵🇭 # Optional: specify a note
-    src: https://chu13.github.io/snap-creative-kit-example/images/succulents.png
+  - title: Cat 
+    note: I have a cute cat that looks just like this one! 🇵🇭 # Optional: specify a note
+    src: https://chu13.github.io/snap-creative-kit-example/images/cool-cat-sticker-creation.png
     sticker: # Optional: specify a public sticker url
-      - stickerUrl: https://chu13.github.io/snap-creative-kit-example/images/succulents.png
+      - stickerUrl: https://chu13.github.io/snap-creative-kit-example/images/cool-cat-sticker-creation.png
   - title: Promotely 
-    note: I have a cute cat that looks just like this one!
+    note: 
     src: https://gifty-store.s3-us-west-2.amazonaws.com/dev/test1.png
     sticker: # Optional: specify a public sticker url
       - stickerUrl: https://gifty-store.s3-us-west-2.amazonaws.com/dev/test1.png
