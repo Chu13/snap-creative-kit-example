@@ -2,7 +2,7 @@ firstName: Mian # Write your first name here
 entries: # Scrapbook entries under here (2-space indent)
   - title: succulents 
     note: A bunch of beautiful plants at a small shop in Cagayan de Oro, 🇵🇭 # Optional: specify a note
-    src: images/succulents.png
+    src: https://gifty-store.s3-us-west-2.amazonaws.com/dev/test1.png
     sticker: # Optional: specify a public sticker url
       - stickerUrl: https://chu13.github.io/snap-creative-kit-example/images/succulents.png
   - title: Promotely 
